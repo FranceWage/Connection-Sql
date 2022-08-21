@@ -1,0 +1,11 @@
+P:\Phap_C#\Phap_SQL_NV\Phap_SQL_NV\bin\Debug\Phap_SQL_NV.exe.config
+P:\Phap_C#\Phap_SQL_NV\Phap_SQL_NV\bin\Debug\Phap_SQL_NV.exe
+P:\Phap_C#\Phap_SQL_NV\Phap_SQL_NV\bin\Debug\Phap_SQL_NV.pdb
+P:\Phap_C#\Phap_SQL_NV\Phap_SQL_NV\obj\Debug\Phap_SQL_NV.csproj.AssemblyReference.cache
+P:\Phap_C#\Phap_SQL_NV\Phap_SQL_NV\obj\Debug\Phap_SQL_NV.csproj.SuggestedBindingRedirects.cache
+P:\Phap_C#\Phap_SQL_NV\Phap_SQL_NV\obj\Debug\Phap_SQL_NV.Form1.resources
+P:\Phap_C#\Phap_SQL_NV\Phap_SQL_NV\obj\Debug\Phap_SQL_NV.Properties.Resources.resources
+P:\Phap_C#\Phap_SQL_NV\Phap_SQL_NV\obj\Debug\Phap_SQL_NV.csproj.GenerateResource.cache
+P:\Phap_C#\Phap_SQL_NV\Phap_SQL_NV\obj\Debug\Phap_SQL_NV.csproj.CoreCompileInputs.cache
+P:\Phap_C#\Phap_SQL_NV\Phap_SQL_NV\obj\Debug\Phap_SQL_NV.exe
+P:\Phap_C#\Phap_SQL_NV\Phap_SQL_NV\obj\Debug\Phap_SQL_NV.pdb
